@@ -1,0 +1,10 @@
+*.pdb
+*.sys
+*.map
+*.cod
+src/obj*
+src/amd64
+src/i386
+src/SOURCES
+src/i386/OemWin2k.inf
+src/config.h
